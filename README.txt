@@ -11,6 +11,6 @@ For more info on Tartini checkout http://www.tartini.net
   
   http://externaldocumentation.blogspot.hk/2010/08/building-tartini-on-debian.html
   
-![image](https://github.com/sundyCoder/tartini1.3.0/tree/master/pics/tartini.png)
-![image](https://github.com/sundyCoder/tartini1.3.0/tree/master/pics/GUI.png)
+![TARTINI](https://github.com/sundyCoder/tartini1.3.0/tree/master/pics/tartini.png)
+![GUI](https://github.com/sundyCoder/tartini1.3.0/tree/master/pics/GUI.png)
   
